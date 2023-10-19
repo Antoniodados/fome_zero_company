@@ -174,7 +174,7 @@ df = df.loc[linhas_selecionadas, :]
 # ============================================================================================
 
 with st.container():
-    fig = graph_bar_nunique (df, 'Restaurant ID', 'Quantidade de Cidades Registradas por País', 'Países', 'Quantidade de Cidades')
+    fig = graph_bar_nunique (df, 'Restaurant ID', 'Quantidade de Restaurantes Registradas por País', 'Países', 'Quantidade de Restaurantes')
     st.plotly_chart( fig, use_container_width=True )
         
 with st.container():
