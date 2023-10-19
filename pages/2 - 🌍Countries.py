@@ -59,7 +59,7 @@ def graph_bar_mean (df, columns, title, xaxis, yaxis):
     df_aux.columns = ['País', 'Quantidade de Restaurantes']
     fig= px.bar(df_aux, x='País', y='Quantidade de Restaurantes', text = 'Quantidade de Restaurantes')
     fig.update_layout(title = title,
-                      title_x = 0.4,
+                      title_x = 0.5,
                       xaxis_title = xaxis,
                       yaxis_title = yaxis)
     return fig
@@ -84,7 +84,7 @@ def graph_bar_nunique (df, columns, title, xaxis, yaxis):
     df_aux.columns = ['País', 'Quantidade de Restaurantes']
     fig= px.bar(df_aux, x='País', y='Quantidade de Restaurantes', text = 'Quantidade de Restaurantes')
     fig.update_layout(title = title,
-                      title_x = 0.4,
+                      title_x = 0.5,
                       xaxis_title = xaxis,
                       yaxis_title = yaxis)
     return fig
