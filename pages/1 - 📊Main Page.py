@@ -122,7 +122,7 @@ country_options = st.sidebar.multiselect(
 st.sidebar.markdown("""---""")
 
 st.sidebar.markdown('## Dados Tratados')
-st.sidebar.button('Download', df.to_csv('dados_tratados.csv'))
+st.sidebar.button('Download', df.to_excel('dados_tratados.xlsx'))
 
 
 st.sidebar.markdown("""---""")
