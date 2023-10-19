@@ -178,5 +178,5 @@ with st.container():
 with st.container():
     fig = graph_bar_top_cidades (df,['City', 'cozinha', 'Restaurant ID', 'Name Country'], ['cozinha', 'Restaurant ID'],[False, False], 
                              ['Cidade', 'País', 'Quantidade de Tipos de Culinárias Únicas','Quantidade Restaurante'],'Quantidade de Tipos de Culinárias Únicas',
-                             'Top 10 Cidades com mais Restaurantes com tpos de culinárias distintas', 'Cidades', 'Quantidade de Tipos de Culinárias Únicas' )
+                             'Top 10 Cidades com mais Restaurantes com tipos de culinárias distintas', 'Cidades', 'Quantidade de Tipos de Culinárias Únicas' )
     st.plotly_chart( fig, use_container_width=True )
