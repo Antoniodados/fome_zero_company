@@ -16,14 +16,14 @@ Fome Zero, e para isso, ele precisa que seja feita uma análise nos dados da
 empresa e que sejam gerados dashboards, a partir dessas análises, para responder
 às seguintes perguntas:
 
-## Geral
+## Gerais
 1. Quantos restaurantes únicos estão registrados?
 2. Quantos países únicos estão registrados?
 3. Quantas cidades únicas estão registradas?
 4. Qual o total de avaliações feitas?
 5. Qual o total de tipos de culinária registrados?
 
-## País
+## Países
 1. Qual o nome do país que possui mais cidades registradas?
 2. Qual o nome do país que possui mais restaurantes registrados?
 3. Qual o nome do país que possui mais restaurantes com o nível de preço igual aos registrados?
@@ -40,7 +40,7 @@ registrada?
 10. Qual o nome do país que possui, na média, a menor nota média registrada?
 11. Qual a média de preço de um prato para dois por país?
 
-## Cidade
+## Cidades
 1. Qual o nome da cidade que possui mais restaurantes registrados?
 2. Qual o nome da cidade que possui mais restaurantes com nota média acima de 4 ?
 3. Qual o nome da cidade que possui mais restaurantes com nota média abaixo de 5?
