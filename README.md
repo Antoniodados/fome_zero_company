@@ -154,7 +154,7 @@ Top 20 restaurante com melhor avaliação
 # 4.Top 3 Insights de dados
 
 Dentre as Top 7 cidades com notas abaixo 2.5 as 3 cidades do Brasil estão no entres as piores sendo que a terceira tem o dobro da quarta colocada.
-O país da Inglaterra é o país com mais restaurantes cadastrados, porém tem pouquíssimas avaliações, sendo 13% apenas da Austrália que é o país com mais avaliações.
+O país da Inglaterra é o país com mais restaurantes cadastrados, porém tem pouquíssimas avaliações, sendo 13% se comparado com a Austrália que é o país com mais avaliações.
 A África do Sul, mesmo sendo o país com mais cidades cadastradas e o segundo com mais restaurantes, não figura entre as top 10 cidades com mais restaurantes com tipos culinários distintos. 
 
 # 5. O produto final do projeto
